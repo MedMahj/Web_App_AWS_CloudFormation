@@ -1,0 +1,12 @@
+[ 
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramProject"
+	},
+  
+  
+	{
+		"ParameterKey": "KeyName",
+		"ParameterValue": "UdagramKey"
+	} 
+]
